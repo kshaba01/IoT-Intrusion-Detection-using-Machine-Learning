@@ -1,7 +1,7 @@
 # IoT-Intrusion-Detection-using-Machine-Learning
-# This work was done as part of a team to develop a solution for detecting network intrusions
-# This work uses a customized the AEGEAN Wifi dataset available here: http://icsdweb.aegean.gr/awid/
-# The problem was a balanced binary classification one; several pre-processing, feature selection/generation steps and machine learning models were considered.
+This work was done as part of a team to develop a solution for detecting network intrusions
+This work uses a customized the AEGEAN Wifi dataset available here: http://icsdweb.aegean.gr/awid/
+The problem was a balanced binary classification one; several pre-processing, feature selection/generation steps and machine learning models were considered.
 
 
 # Project/Result Summary
